@@ -1,0 +1,178 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/sourav/Desktop/HackDAC/buggy_soc/vsim
+vaxi_ar_buffer
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1518037923
+!i10b 1
+!s100 S4RL=azVK_K6Vc2XPG6E@0
+Ik<BTd4ngOH^VXEYM;IjAD1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 axi_ar_buffer_sv_unit
+S1
+R0
+Z4 w1516413200
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_ar_buffer.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_ar_buffer.sv
+Z5 L0 41
+Z6 OV;L;10.5c;63
+r1
+!s85 0
+31
+!s108 1518037922.000000
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_ar_buffer.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/axi_slice_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_ar_buffer.sv|
+!i113 1
+Z7 o-suppress 2583 -quiet -sv -work /home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/axi_slice_lib
+Z8 tCvgOpt 0
+vaxi_aw_buffer
+R1
+R2
+!i10b 1
+!s100 T[dO@df31E=Jj7I_b;N580
+I];5fh6XNKW8IPLZ0_lHaN2
+R3
+!s105 axi_aw_buffer_sv_unit
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_aw_buffer.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_aw_buffer.sv
+R5
+R6
+r1
+!s85 0
+31
+Z9 !s108 1518037923.000000
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_aw_buffer.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/axi_slice_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_aw_buffer.sv|
+!i113 1
+R7
+R8
+vaxi_b_buffer
+R1
+R2
+!i10b 1
+!s100 @5;dY2UjB023gbjXcR@Va1
+I1b73P[ICBAV=04RCDMaIm3
+R3
+!s105 axi_b_buffer_sv_unit
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_b_buffer.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_b_buffer.sv
+L0 40
+R6
+r1
+!s85 0
+31
+R9
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_b_buffer.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/axi_slice_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_b_buffer.sv|
+!i113 1
+R7
+R8
+vaxi_buffer
+R1
+R2
+!i10b 1
+!s100 7g3?K`4g1e>mP=miH^1ZF3
+IISXhBGYfj?:N_=>PNol^61
+R3
+!s105 axi_buffer_sv_unit
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_buffer.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_buffer.sv
+R5
+R6
+r1
+!s85 0
+31
+R9
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_buffer.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/axi_slice_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_buffer.sv|
+!i113 1
+R7
+R8
+vaxi_r_buffer
+R1
+R2
+!i10b 1
+!s100 YYzn9n^LSKbcb3gTnDY_m2
+IbRIDkVf8a3HOGM5YM7G]d3
+R3
+!s105 axi_r_buffer_sv_unit
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_r_buffer.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_r_buffer.sv
+R5
+R6
+r1
+!s85 0
+31
+R9
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_r_buffer.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/axi_slice_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_r_buffer.sv|
+!i113 1
+R7
+R8
+vaxi_slice
+R1
+R2
+!i10b 1
+!s100 C6mYbJaii2f8n8SK`mn471
+IhBjL[NMTUz3l@`com>fTb2
+R3
+!s105 axi_slice_sv_unit
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_slice.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_slice.sv
+Z10 L0 42
+R6
+r1
+!s85 0
+31
+R9
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_slice.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/axi_slice_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_slice.sv|
+!i113 1
+R7
+R8
+vaxi_w_buffer
+R1
+R2
+!i10b 1
+!s100 ^B@;zoc1V<V?SO3Eh_1CL2
+I>Q8AGc:T@;VHIe7SgF^G>3
+R3
+!s105 axi_w_buffer_sv_unit
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_w_buffer.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_w_buffer.sv
+R10
+R6
+r1
+!s85 0
+31
+R9
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_w_buffer.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/axi_slice_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_slice/axi_w_buffer.sv|
+!i113 1
+R7
+R8

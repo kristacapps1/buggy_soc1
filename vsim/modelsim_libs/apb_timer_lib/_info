@@ -1,0 +1,58 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/sourav/Desktop/HackDAC/buggy_soc/vsim
+vapb_timer
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1518037917
+!i10b 1
+!s100 DAgl?9;kS1JQ?N=3B70ji1
+IB_E>Ke=I:Qae:kVmH6_Um3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 apb_timer_sv_unit
+S1
+R0
+Z4 w1516413192
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/apb/apb_timer/apb_timer.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/apb/apb_timer/apb_timer.sv
+L0 13
+Z5 OV;L;10.5c;63
+r1
+!s85 0
+31
+Z6 !s108 1518037917.000000
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/apb/apb_timer/apb_timer.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/apb_timer_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/apb/apb_timer/apb_timer.sv|
+!i113 1
+Z7 o-suppress 2583 -quiet -sv -work /home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/apb_timer_lib
+Z8 tCvgOpt 0
+vtimer
+R1
+R2
+!i10b 1
+!s100 Z;d_0VkOB6clYKPV5?Lz]2
+I7FZ6:DO?_A:YS6f13N?<31
+R3
+!s105 timer_sv_unit
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/apb/apb_timer/timer.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/apb/apb_timer/timer.sv
+L0 21
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/apb/apb_timer/timer.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/apb_timer_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/apb/apb_timer/timer.sv|
+!i113 1
+R7
+R8

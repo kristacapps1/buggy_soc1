@@ -1,0 +1,226 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/sourav/Desktop/HackDAC/buggy_soc/vsim
+vaxi_spi_slave
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1518037913
+!i10b 1
+!s100 OlSXe8FT4`K[<7<?ke49o1
+IJcBj@g5n1ZOh>TA3>SjAX3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 axi_spi_slave_sv_unit
+S1
+R0
+Z4 w1516413202
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/axi_spi_slave.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/axi_spi_slave.sv
+Z5 L0 11
+Z6 OV;L;10.5c;63
+r1
+!s85 0
+31
+Z7 !s108 1518037913.000000
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/axi_spi_slave.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/axi_spi_slave_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/axi_spi_slave.sv|
+!i113 1
+Z8 o-suppress 2583 -quiet -sv -work /home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/axi_spi_slave_lib
+Z9 tCvgOpt 0
+vspi_slave_axi_plug
+R1
+R2
+!i10b 1
+!s100 ^5YDflfQDi@W@eoQ>EZ_93
+Io8hMSZ85C1@FiiUPVJgMQ3
+R3
+!s105 spi_slave_axi_plug_sv_unit
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_axi_plug.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_axi_plug.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_axi_plug.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/axi_spi_slave_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_axi_plug.sv|
+!i113 1
+R8
+R9
+vspi_slave_cmd_parser
+R1
+R2
+!i10b 1
+!s100 deSmZ>bgd7RGKdRNE8ffE2
+ILRLSZTQICL5]JXd0Y>^U^2
+R3
+!s105 spi_slave_cmd_parser_sv_unit
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_cmd_parser.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_cmd_parser.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_cmd_parser.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/axi_spi_slave_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_cmd_parser.sv|
+!i113 1
+R8
+R9
+vspi_slave_controller
+R1
+R2
+!i10b 1
+!s100 Ya1R3;a:VAFHTnLKADWTE1
+I6Z2dhg]Ia1XJQe<<aCboQ3
+R3
+!s105 spi_slave_controller_sv_unit
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_controller.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_controller.sv
+L0 16
+R6
+r1
+!s85 0
+31
+R7
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_controller.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/axi_spi_slave_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_controller.sv|
+!i113 1
+R8
+R9
+vspi_slave_dc_fifo
+R1
+R2
+!i10b 1
+!s100 RQ@1DDl:>eHk1ndfVDMVO0
+I99=HmBm]J5GMJknbMaWhK2
+R3
+!s105 spi_slave_dc_fifo_sv_unit
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_dc_fifo.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_dc_fifo.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_dc_fifo.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/axi_spi_slave_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_dc_fifo.sv|
+!i113 1
+R8
+R9
+vspi_slave_regs
+R1
+R2
+!i10b 1
+!s100 @fj0gJl4gJmoln28;ePTh2
+IzRMS8CWAg5RjLSZe9[4hE3
+R3
+!s105 spi_slave_regs_sv_unit
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_regs.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_regs.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_regs.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/axi_spi_slave_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_regs.sv|
+!i113 1
+R8
+R9
+vspi_slave_rx
+R1
+R2
+!i10b 1
+!s100 6Iecl6j=iXY>4Ih<T48330
+IgTjj6WLWM@Sjo0F;oKPL?1
+R3
+!s105 spi_slave_rx_sv_unit
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_rx.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_rx.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_rx.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/axi_spi_slave_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_rx.sv|
+!i113 1
+R8
+R9
+vspi_slave_syncro
+R1
+R2
+!i10b 1
+!s100 GblWlIm1Cg86N2]=aLQ412
+IA?Da`Oa9D>FK_RA3GA>5W1
+R3
+!s105 spi_slave_syncro_sv_unit
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_syncro.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_syncro.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_syncro.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/axi_spi_slave_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_syncro.sv|
+!i113 1
+R8
+R9
+vspi_slave_tx
+R1
+R2
+!i10b 1
+!s100 NkR]IRZAOegSkYK^?4Fz[3
+IR0?dO4B`H_S5H95Y1^^[c1
+R3
+!s105 spi_slave_tx_sv_unit
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_tx.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_tx.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_tx.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/axi_spi_slave_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/axi/axi_spi_slave/spi_slave_tx.sv|
+!i113 1
+R8
+R9

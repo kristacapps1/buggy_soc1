@@ -1,0 +1,730 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/sourav/Desktop/HackDAC/buggy_soc/vsim
+YAPB_BUS
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1518037925
+!i10b 1
+!s100 @oo0]H0FA5Ymgn4Qn[Y^T0
+ITB2ck63KJgo5izBOA;`j71
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 periph_bus_wrap_sv_unit
+S1
+R0
+w1517882345
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/apb_bus.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/apb_bus.sv
+L0 75
+Z5 OV;L;10.5c;63
+r1
+!s85 0
+31
+Z6 !s108 1518037925.000000
+Z7 !s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/apb_bus.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/periph_bus_wrap.sv|
+Z8 !s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes|+define+RISCV|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/periph_bus_wrap.sv|
+!i113 1
+Z9 o-quiet -sv -work /home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib
+Z10 !s92 -quiet -sv -work /home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib +incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes +define+RISCV
+Z11 tCvgOpt 0
+n@a@p@b_@b@u@s
+vaxi2apb_wrap
+R1
+R2
+!i10b 1
+!s100 BblcY[TfXm3Ofocjj_QlY0
+I_Bl:d^>O>@7Qkz@^24<eo3
+R3
+!s105 axi2apb_wrap_sv_unit
+S1
+R0
+Z12 w1516413146
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/axi2apb_wrap.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/axi2apb_wrap.sv
+Z13 L0 13
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/axi_bus.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/axi2apb_wrap.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes|+define+RISCV|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/axi2apb_wrap.sv|
+!i113 1
+R9
+R10
+R11
+YAXI_BUS
+R1
+R2
+!i10b 1
+!s100 I]H95jUBNge`TVH4dmDYa1
+IB9z;UXkN=oe38K9dY>h:@3
+R3
+Z14 !s105 core2axi_wrap_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/axi_bus.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/axi_bus.sv
+L0 23
+R5
+r1
+!s85 0
+31
+R6
+Z15 !s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/axi_bus.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/core2axi_wrap.sv|
+Z16 !s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes|+define+RISCV|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/core2axi_wrap.sv|
+!i113 1
+R9
+R10
+R11
+n@a@x@i_@b@u@s
+vaxi_mem_if_SP_wrap
+R1
+R2
+!i10b 1
+!s100 9dRN9E8X][Y<JmJg`z=CU0
+IHJOZ9GjElA[Ao@eESFM[11
+R3
+!s105 axi_mem_if_SP_wrap_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/axi_mem_if_SP_wrap.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/axi_mem_if_SP_wrap.sv
+R13
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/axi_bus.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/axi_mem_if_SP_wrap.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes|+define+RISCV|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/axi_mem_if_SP_wrap.sv|
+!i113 1
+R9
+R10
+R11
+naxi_mem_if_@s@p_wrap
+vaxi_node_intf_wrap
+R1
+R2
+!i10b 1
+!s100 2Bf2XhAk[=l1UgE81[7S;0
+IEkoS?oEAA_0U]UH01<JgA0
+R3
+!s105 axi_node_intf_wrap_sv_unit
+S1
+R0
+w1517957374
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/axi_node_intf_wrap.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/axi_node_intf_wrap.sv
+Z17 L0 14
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/axi_bus.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/axi_node_intf_wrap.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes|+define+RISCV|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/axi_node_intf_wrap.sv|
+!i113 1
+R9
+R10
+R11
+vaxi_slice_wrap
+R1
+R2
+!i10b 1
+!s100 3]k8j1<VOUg9ckk1g7OdA1
+I]<MFD3Z@AClYR>R02f@:n1
+R3
+!s105 axi_slice_wrap_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/axi_slice_wrap.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/axi_slice_wrap.sv
+Z18 L0 12
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/axi_slice_wrap.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes|+define+RISCV|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/axi_slice_wrap.sv|
+!i113 1
+R9
+R10
+R11
+vaxi_spi_slave_wrap
+R1
+R2
+!i10b 1
+!s100 dI`6=5<a2dRA<G]lP^gZl0
+Ig1;o1OZEI58FmS<gC4z^O1
+R3
+!s105 axi_spi_slave_wrap_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/axi_spi_slave_wrap.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/axi_spi_slave_wrap.sv
+R18
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/axi_spi_slave_wrap.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes|+define+RISCV|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/axi_spi_slave_wrap.sv|
+!i113 1
+R9
+R10
+R11
+vboot_code
+R1
+R2
+!i10b 1
+!s100 i>hG:`@:cCd<;Y>=DF<8S2
+IGY2nI2f@Tl2Dh0SE;]oRK1
+R3
+!s105 boot_code_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/boot_code.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/boot_code.sv
+Z19 L0 11
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/boot_code.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes|+define+RISCV|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/boot_code.sv|
+!i113 1
+R9
+R10
+R11
+vboot_rom_wrap
+R1
+R2
+!i10b 1
+!s100 oKz_][Nz[TBWKN:Km?`GU0
+IKn>cXX<MHWGI_@dYbZFWR1
+R3
+!s105 boot_rom_wrap_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/boot_rom_wrap.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/boot_rom_wrap.sv
+R17
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/boot_rom_wrap.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes|+define+RISCV|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/boot_rom_wrap.sv|
+!i113 1
+R9
+R10
+R11
+vclk_rst_gen
+R1
+R2
+!i10b 1
+!s100 DNc_ISFRFDDb0S@=^n?612
+I_Ma8naX;i<Gkliic;<Z[O0
+R3
+!s105 clk_rst_gen_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/clk_rst_gen.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/clk_rst_gen.sv
+R18
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/clk_rst_gen.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes|+define+RISCV|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/clk_rst_gen.sv|
+!i113 1
+R9
+R10
+R11
+vcluster_clock_gating
+R1
+Z20 !s110 1518037924
+!i10b 1
+!s100 P6D0b;OH7HKPBjzmmIDOf3
+I40AhV:nTl]g1W[S<RaZI>3
+R3
+!s105 cluster_clock_gating_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/cluster_clock_gating.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/cluster_clock_gating.sv
+R19
+R5
+r1
+!s85 0
+31
+Z21 !s108 1518037924.000000
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/cluster_clock_gating.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/cluster_clock_gating.sv|
+!i113 1
+R9
+R11
+vcluster_clock_inverter
+R1
+R20
+!i10b 1
+!s100 X<2_XdV=be>FN6?U[nGT73
+I0Njcn6Gf=?@=VOzkO3cQY3
+R3
+!s105 cluster_clock_inverter_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/cluster_clock_inverter.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/cluster_clock_inverter.sv
+R19
+R5
+r1
+!s85 0
+31
+R21
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/cluster_clock_inverter.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/cluster_clock_inverter.sv|
+!i113 1
+R9
+R11
+vcluster_clock_mux2
+R1
+R20
+!i10b 1
+!s100 708TlFl0UdeaP0ZXET;591
+I4lzLckVP@Y5DULK`k[eEL3
+R3
+!s105 cluster_clock_mux2_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/cluster_clock_mux2.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/cluster_clock_mux2.sv
+R19
+R5
+r1
+!s85 0
+31
+R21
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/cluster_clock_mux2.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/cluster_clock_mux2.sv|
+!i113 1
+R9
+R11
+vcore2axi_wrap
+R1
+R2
+!i10b 1
+!s100 l[?Q^=h`O2WD`1zfJ7lXz3
+IXhn;mT3:O:m7_>K`gNQo40
+R3
+R14
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/core2axi_wrap.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/core2axi_wrap.sv
+R17
+R5
+r1
+!s85 0
+31
+R6
+R15
+R16
+!i113 1
+R9
+R10
+R11
+vcore_region
+R1
+R2
+!i10b 1
+!s100 D<Zl`zVbm^9eM]PaJ5=db2
+IPLCeZYY5g5@bU7Ieah:SS3
+R3
+!s105 core_region_sv_unit
+S1
+R0
+w1517946861
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/core_region.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/core_region.sv
+L0 15
+R5
+r1
+!s85 0
+31
+R21
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/axi_bus.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/core_region.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes|+define+RISCV|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/core_region.sv|
+!i113 1
+R9
+R10
+R11
+YDEBUG_BUS
+R1
+R2
+!i10b 1
+!s100 mUM[PZcIB31U7^3BiIKF<3
+IGlZiM2c:TIhVR2dj9k=:10
+R3
+Z22 !s105 peripherals_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/debug_bus.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/debug_bus.sv
+Z23 L0 16
+R5
+r1
+!s85 0
+31
+R6
+Z24 !s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/debug_bus.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/apb_bus.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/axi_bus.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/peripherals.sv|
+Z25 !s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes|+define+RISCV|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/peripherals.sv|
+!i113 1
+R9
+R10
+R11
+n@d@e@b@u@g_@b@u@s
+vgeneric_fifo
+R1
+R20
+!i10b 1
+!s100 ;;C_XXoSa^g9NR[fekoZ52
+IjlcT;CY^ONB<AmjZRi54A2
+R3
+!s105 generic_fifo_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/generic_fifo.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/generic_fifo.sv
+R19
+R5
+r1
+!s85 0
+31
+R21
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/generic_fifo.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/generic_fifo.sv|
+!i113 1
+R9
+R11
+vinstr_ram_wrap
+R1
+R2
+!i10b 1
+!s100 @oEGMkh0UKb8j:UM1HC3D2
+IMOBhfP9^PUTVoh?``UG`L2
+R3
+!s105 instr_ram_wrap_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/instr_ram_wrap.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/instr_ram_wrap.sv
+R17
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/instr_ram_wrap.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes|+define+RISCV|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/instr_ram_wrap.sv|
+!i113 1
+R9
+R10
+R11
+vperiph_bus_wrap
+R1
+R2
+!i10b 1
+!s100 1QNP]ddJz^CK7>WBeVNT40
+IgQj4?z;6^S::MYEYKW55T2
+R3
+R4
+S1
+R0
+w1517886041
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/periph_bus_wrap.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/periph_bus_wrap.sv
+R13
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vperipherals
+R1
+R2
+!i10b 1
+!s100 `hN9oNbd`D;HNDY`>J@BT1
+Ig0k7h9;8PGb;`9aQiQ6iY2
+R3
+R22
+S1
+R0
+w1518014833
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/peripherals.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/peripherals.sv
+R23
+R5
+r1
+!s85 0
+31
+R6
+R24
+R25
+!i113 1
+R9
+R10
+R11
+vpulp_clock_gating
+R1
+R20
+!i10b 1
+!s100 QfOg_K<[hQV6Wo^N4W1GC3
+IzK928UM6kDdJdQJXbkUP:2
+R3
+!s105 pulp_clock_gating_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/pulp_clock_gating.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/pulp_clock_gating.sv
+R19
+R5
+r1
+!s85 0
+31
+R21
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/pulp_clock_gating.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/pulp_clock_gating.sv|
+!i113 1
+R9
+R11
+vpulp_clock_inverter
+R1
+R20
+!i10b 1
+!s100 R4W8E1U6jQV6J`Q0nL44@3
+I7X`OgeJe6kXRda@TEokQC2
+R3
+!s105 pulp_clock_inverter_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/pulp_clock_inverter.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/pulp_clock_inverter.sv
+R19
+R5
+r1
+!s85 0
+31
+R21
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/pulp_clock_inverter.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/pulp_clock_inverter.sv|
+!i113 1
+R9
+R11
+vpulp_clock_mux2
+R1
+R20
+!i10b 1
+!s100 2E;5KT`Y8z=T?ALmAdQgl2
+I[1b3Hi6P6^3XoDOFo;lD63
+R3
+!s105 pulp_clock_mux2_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/pulp_clock_mux2.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/pulp_clock_mux2.sv
+R19
+R5
+r1
+!s85 0
+31
+R21
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/pulp_clock_mux2.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/pulp_clock_mux2.sv|
+!i113 1
+R9
+R11
+vpulpino_top
+R1
+R2
+!i10b 1
+!s100 _IDCQKGb?QFhZ5MikFgEE3
+IFAdZ_lk<XiNlfOB@9gOYc3
+R3
+!s105 pulpino_top_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/pulpino_top.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/pulpino_top.sv
+L0 20
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/debug_bus.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/axi_bus.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/pulpino_top.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes|+define+RISCV|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/pulpino_top.sv|
+!i113 1
+R9
+R10
+R11
+vram_mux
+R1
+R2
+!i10b 1
+!s100 C>ozz;k73AB`f>[LhLNTM0
+IB1Z5aE]?^c[Fkf7H`J0GC1
+R3
+!s105 ram_mux_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/ram_mux.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/ram_mux.sv
+R19
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/ram_mux.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes|+define+RISCV|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/ram_mux.sv|
+!i113 1
+R9
+R10
+R11
+vrandom_stalls
+R1
+R2
+!i10b 1
+!s100 3Jm58EmSDHeSH=?MVi>9D0
+IMjCZ?3;aBV@naS<NDo07]1
+R3
+!s105 random_stalls_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/random_stalls.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/random_stalls.sv
+R19
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/random_stalls.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes|+define+RISCV|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/random_stalls.sv|
+!i113 1
+R9
+R10
+R11
+vrstgen
+R1
+R20
+!i10b 1
+!s100 _?k_TU?gFRl9OMgEP2zWg0
+ILCSH8W;ZjdbBeO4d;Y?_F0
+R3
+!s105 rstgen_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/rstgen.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/rstgen.sv
+R19
+R5
+r1
+!s85 0
+31
+R21
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/rstgen.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/rstgen.sv|
+!i113 1
+R9
+R11
+vsp_ram
+R1
+R20
+!i10b 1
+!s100 6]DWV[S^FH]dTH8XGS>]^2
+I<P]3gcQCmGQ00VM]j^:ID3
+R3
+!s105 sp_ram_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/sp_ram.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/sp_ram.sv
+R19
+R5
+r1
+!s85 0
+31
+R21
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/sp_ram.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/components/sp_ram.sv|
+!i113 1
+R9
+R11
+vsp_ram_wrap
+R1
+R2
+!i10b 1
+!s100 jX2CdEm8O2>HIC;DEEhd<0
+Im0H1]@0oo]B:>BI:GSK3T0
+R3
+!s105 sp_ram_wrap_sv_unit
+S1
+R0
+R12
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/sp_ram_wrap.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/sp_ram_wrap.sv
+R13
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes/config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/sp_ram_wrap.sv|
+!s90 -quiet|-sv|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/pulpino_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/includes|+define+RISCV|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//rtl/sp_ram_wrap.sv|
+!i113 1
+R9
+R10
+R11

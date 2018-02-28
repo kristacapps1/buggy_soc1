@@ -1,0 +1,885 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/sourav/Desktop/HackDAC/buggy_soc/vsim
+vzeroriscy_alu
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 DXx4 work 17 zeroriscy_defines 0 22 NPC<7b6_ME9FOJe_?5F4`1
+DXx4 work 21 zeroriscy_alu_sv_unit 0 22 Uj]kAzP8cfk9dP4nc7fK]2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 KAUM;loEBin<9BCXX4zbn3
+I8gnLFjdNh4od5n?@BYCJN0
+!s105 zeroriscy_alu_sv_unit
+S1
+R0
+Z4 w1516413208
+Z5 8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_alu.sv
+Z6 F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_alu.sv
+Z7 L0 30
+Z8 OV;L;10.5c;63
+Z9 !s108 1518037918.000000
+Z10 !s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_alu.sv|
+Z11 !s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_alu.sv|
+!i113 1
+Z12 o-suppress 2583 -quiet -sv -work /home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib
+Z13 !s92 -suppress 2583 -quiet -sv -work /home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib +incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include
+Z14 tCvgOpt 0
+Xzeroriscy_alu_sv_unit
+R1
+R2
+VUj]kAzP8cfk9dP4nc7fK]2
+r1
+!s85 0
+31
+!i10b 1
+!s100 l`ST:hCJM]h5[60FI3TQT3
+IUj]kAzP8cfk9dP4nc7fK]2
+!i103 1
+S1
+R0
+R4
+R5
+R6
+Z15 F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_config.sv
+Z16 L0 28
+R8
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vzeroriscy_compressed_decoder
+R1
+R2
+DXx4 work 36 zeroriscy_compressed_decoder_sv_unit 0 22 dzIl4DBd^caLh1]Fe24F80
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 eTlKKR@;dlWQPlZRgE4W40
+IkBCVFoDff1?V:Yj;3`Ez]0
+!s105 zeroriscy_compressed_decoder_sv_unit
+S1
+R0
+R4
+Z17 8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_compressed_decoder.sv
+Z18 F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_compressed_decoder.sv
+Z19 L0 27
+R8
+R9
+Z20 !s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_compressed_decoder.sv|
+Z21 !s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_compressed_decoder.sv|
+!i113 1
+R12
+R13
+R14
+Xzeroriscy_compressed_decoder_sv_unit
+R1
+R2
+VdzIl4DBd^caLh1]Fe24F80
+r1
+!s85 0
+31
+!i10b 1
+!s100 M02:a7KKoDo5<b>j4ZnCo1
+IdzIl4DBd^caLh1]Fe24F80
+!i103 1
+S1
+R0
+R4
+R17
+R18
+L0 25
+R8
+R9
+R20
+R21
+!i113 1
+R12
+R13
+R14
+vzeroriscy_controller
+R1
+R2
+DXx4 work 28 zeroriscy_controller_sv_unit 0 22 Sl^jQm=5MLm@9dB9[??@60
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 _aE5^JDgRIMQ?YBPK0fJ@1
+Ico<HfK_^Pil<:8HRiPXY_1
+!s105 zeroriscy_controller_sv_unit
+S1
+R0
+R4
+Z22 8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_controller.sv
+Z23 F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_controller.sv
+Z24 L0 33
+R8
+R9
+Z25 !s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_controller.sv|
+Z26 !s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_controller.sv|
+!i113 1
+R12
+R13
+R14
+Xzeroriscy_controller_sv_unit
+R1
+R2
+VSl^jQm=5MLm@9dB9[??@60
+r1
+!s85 0
+31
+!i10b 1
+!s100 fhmb[?5XOb<=HMc=77ig@3
+ISl^jQm=5MLm@9dB9[??@60
+!i103 1
+S1
+R0
+R4
+R22
+R23
+R15
+R7
+R8
+R9
+R25
+R26
+!i113 1
+R12
+R13
+R14
+vzeroriscy_core
+R1
+R2
+DXx4 work 22 zeroriscy_core_sv_unit 0 22 Z8UgIHb823970m]PIPAP22
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 ;2m5UL974BA5e@IIg<@<j1
+IVaKY^]nK5V2Q8OGn1C6392
+!s105 zeroriscy_core_sv_unit
+S1
+R0
+R4
+Z27 8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_core.sv
+Z28 F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_core.sv
+R24
+R8
+Z29 !s108 1518037919.000000
+Z30 !s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_core.sv|
+Z31 !s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_core.sv|
+!i113 1
+R12
+R13
+R14
+Xzeroriscy_core_sv_unit
+R1
+R2
+VZ8UgIHb823970m]PIPAP22
+r1
+!s85 0
+31
+!i10b 1
+!s100 >iS5LBIT<3QOO1nY?iBOU1
+IZ8UgIHb823970m]PIPAP22
+!i103 1
+S1
+R0
+R4
+R27
+R28
+R15
+Z32 L0 31
+R8
+R29
+R30
+R31
+!i113 1
+R12
+R13
+R14
+vzeroriscy_cs_registers
+R1
+R2
+DXx4 work 30 zeroriscy_cs_registers_sv_unit 0 22 GeZWAf<]fGzER5KJ?XLO>2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 Da0V]]J5iO]]<43Km5o<B1
+IzR93C3IA3=PDKOT=4Mk=H3
+!s105 zeroriscy_cs_registers_sv_unit
+S1
+R0
+R4
+Z33 8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_cs_registers.sv
+Z34 F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_cs_registers.sv
+L0 37
+R8
+R9
+Z35 !s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_cs_registers.sv|
+Z36 !s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_cs_registers.sv|
+!i113 1
+R12
+R13
+R14
+Xzeroriscy_cs_registers_sv_unit
+R1
+R2
+VGeZWAf<]fGzER5KJ?XLO>2
+r1
+!s85 0
+31
+!i10b 1
+!s100 jEkZ4OEbTnNnG@<[I<G<L3
+IGeZWAf<]fGzER5KJ?XLO>2
+!i103 1
+S1
+R0
+R4
+R33
+R34
+R15
+Z37 L0 29
+R8
+R9
+R35
+R36
+!i113 1
+R12
+R13
+R14
+vzeroriscy_debug_unit
+R1
+R2
+DXx4 work 28 zeroriscy_debug_unit_sv_unit 0 22 QIci>4H226URf6IRm;3P^1
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 n<Q>CAiHL`BIzOJdl>a;T2
+I1gNmNVZelH5G2JLkzAm@f3
+!s105 zeroriscy_debug_unit_sv_unit
+S1
+R0
+R4
+Z38 8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_debug_unit.sv
+Z39 F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_debug_unit.sv
+R37
+R8
+R9
+Z40 !s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_debug_unit.sv|
+Z41 !s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_debug_unit.sv|
+!i113 1
+R12
+R13
+R14
+Xzeroriscy_debug_unit_sv_unit
+R1
+R2
+VQIci>4H226URf6IRm;3P^1
+r1
+!s85 0
+31
+!i10b 1
+!s100 2ZI@:4P8`^BDE>^LH7<Io2
+IQIci>4H226URf6IRm;3P^1
+!i103 1
+S1
+R0
+R4
+R38
+R39
+R15
+R19
+R8
+R9
+R40
+R41
+!i113 1
+R12
+R13
+R14
+vzeroriscy_decoder
+R1
+R2
+DXx4 work 25 zeroriscy_decoder_sv_unit 0 22 `CR3^a;M`>;nmCdXj;6?j1
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 Ig=bX4l>J>VnS`dSe_M660
+I]6dBkn^93c3U4mimCACm`1
+!s105 zeroriscy_decoder_sv_unit
+S1
+R0
+R4
+Z42 8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_decoder.sv
+Z43 F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_decoder.sv
+R24
+R8
+R9
+Z44 !s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_decoder.sv|
+Z45 !s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_decoder.sv|
+!i113 1
+R12
+R13
+R14
+Xzeroriscy_decoder_sv_unit
+R1
+R2
+V`CR3^a;M`>;nmCdXj;6?j1
+r1
+!s85 0
+31
+!i10b 1
+!s100 U=89TmoOG_NeNX>GXCjLE1
+I`CR3^a;M`>;nmCdXj;6?j1
+!i103 1
+S1
+R0
+R4
+R42
+R43
+R15
+R32
+R8
+R9
+R44
+R45
+!i113 1
+R12
+R13
+R14
+Xzeroriscy_defines
+R1
+Z46 !s110 1518037919
+!i10b 1
+!s100 7h=fzK>4cY<a?Rh5MS3>;1
+INPC<7b6_ME9FOJe_?5F4`1
+VNPC<7b6_ME9FOJe_?5F4`1
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_defines.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_defines.sv
+Z47 L0 26
+R8
+r1
+!s85 0
+31
+R29
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_defines.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_defines.sv|
+!i113 1
+R12
+R13
+R14
+vzeroriscy_ex_block
+R1
+R2
+DXx4 work 26 zeroriscy_ex_block_sv_unit 0 22 >0SZ>1Z:b?JJ^P;XnnJ3Y0
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 Xgen0AH7EMl>3dVJFmBOX1
+IE6AFdmTiUz<>[]=M=UBhV1
+!s105 zeroriscy_ex_block_sv_unit
+S1
+R0
+R4
+Z48 8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_ex_block.sv
+Z49 F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_ex_block.sv
+R24
+R8
+R29
+Z50 !s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_ex_block.sv|
+Z51 !s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_ex_block.sv|
+!i113 1
+R12
+R13
+R14
+Xzeroriscy_ex_block_sv_unit
+R1
+R2
+V>0SZ>1Z:b?JJ^P;XnnJ3Y0
+r1
+!s85 0
+31
+!i10b 1
+!s100 EOL?;:gLDlD=`_eHnijHA1
+I>0SZ>1Z:b?JJ^P;XnnJ3Y0
+!i103 1
+S1
+R0
+R4
+R48
+R49
+R15
+R32
+R8
+R29
+R50
+R51
+!i113 1
+R12
+R13
+R14
+vzeroriscy_fetch_fifo
+R1
+R46
+!i10b 1
+!s100 kg:NWBi2;WDMHZX^lGY:d1
+I^U0::C_NC8AN2L<?g@F7J2
+R3
+!s105 zeroriscy_fetch_fifo_sv_unit
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_fetch_fifo.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_fetch_fifo.sv
+R47
+R8
+r1
+!s85 0
+31
+R29
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_fetch_fifo.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_fetch_fifo.sv|
+!i113 1
+R12
+R13
+R14
+vzeroriscy_id_stage
+R1
+R2
+DXx4 work 26 zeroriscy_id_stage_sv_unit 0 22 Z7?T?Mm6Gd8^ZAkcLjDSm3
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 h4__SZXJ5@I:A9[5]m=j<2
+I[8DEU2mk=TU59zVZ4jFS73
+!s105 zeroriscy_id_stage_sv_unit
+S1
+R0
+R4
+Z52 8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_id_stage.sv
+Z53 F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_id_stage.sv
+L0 40
+R8
+R29
+Z54 !s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_id_stage.sv|
+Z55 !s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_id_stage.sv|
+!i113 1
+R12
+R13
+R14
+Xzeroriscy_id_stage_sv_unit
+R1
+R2
+VZ7?T?Mm6Gd8^ZAkcLjDSm3
+r1
+!s85 0
+31
+!i10b 1
+!s100 Z6?4NP;XbZAgdiX7abAQR0
+IZ7?T?Mm6Gd8^ZAkcLjDSm3
+!i103 1
+S1
+R0
+R4
+R52
+R53
+R15
+R32
+R8
+R29
+R54
+R55
+!i113 1
+R12
+R13
+R14
+vzeroriscy_if_stage
+R1
+R2
+DXx4 work 26 zeroriscy_if_stage_sv_unit 0 22 g<1<HZX>S>gIJi=g@HRNW0
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 ?58W6Pf7HFU^?6aon<Q9^2
+ICbHoR^Zzc99k]5NHzk;5n1
+!s105 zeroriscy_if_stage_sv_unit
+S1
+R0
+R4
+Z56 8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_if_stage.sv
+Z57 F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_if_stage.sv
+L0 32
+R8
+R29
+Z58 !s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_if_stage.sv|
+Z59 !s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_if_stage.sv|
+!i113 1
+R12
+R13
+R14
+Xzeroriscy_if_stage_sv_unit
+R1
+R2
+Vg<1<HZX>S>gIJi=g@HRNW0
+r1
+!s85 0
+31
+!i10b 1
+!s100 cTEI7m>[GRUnlP@HgC8gY0
+Ig<1<HZX>S>gIJi=g@HRNW0
+!i103 1
+S1
+R0
+R4
+R56
+R57
+R15
+R7
+R8
+R29
+R58
+R59
+!i113 1
+R12
+R13
+R14
+vzeroriscy_int_controller
+R1
+R2
+DXx4 work 32 zeroriscy_int_controller_sv_unit 0 22 Bn]1d73F>kbN0SzVPdA9A3
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 d6[GO9UoSX03GnZUlQEA80
+IAZJ@59<BW1PFF;HW1`NMK1
+!s105 zeroriscy_int_controller_sv_unit
+S1
+R0
+R4
+Z60 8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_int_controller.sv
+Z61 F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_int_controller.sv
+R47
+R8
+R9
+Z62 !s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_int_controller.sv|
+Z63 !s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_int_controller.sv|
+!i113 1
+R12
+R13
+R14
+Xzeroriscy_int_controller_sv_unit
+R1
+R2
+VBn]1d73F>kbN0SzVPdA9A3
+r1
+!s85 0
+31
+!i10b 1
+!s100 <CT:m6?mCi3_a=]aF=W`k0
+IBn]1d73F>kbN0SzVPdA9A3
+!i103 1
+S1
+R0
+R4
+R60
+R61
+L0 24
+R8
+R9
+R62
+R63
+!i113 1
+R12
+R13
+R14
+vzeroriscy_load_store_unit
+R1
+R46
+!i10b 1
+!s100 ZQn_j`O[j[FT<o0e?S6fO0
+IhKz<I6[0;MD_Q[=5c=<JL0
+R3
+!s105 zeroriscy_load_store_unit_sv_unit
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_load_store_unit.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_load_store_unit.sv
+R7
+R8
+r1
+!s85 0
+31
+R29
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_load_store_unit.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_load_store_unit.sv|
+!i113 1
+R12
+R13
+R14
+vzeroriscy_multdiv_fast
+R1
+R2
+DXx4 work 30 zeroriscy_multdiv_fast_sv_unit 0 22 Jm>bnW@4ezI@a?AeDPk_z1
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 8FYILjRDC8bB`@WI3nB7C3
+IbFIVWg:=WZKbJR0[6`JiF2
+!s105 zeroriscy_multdiv_fast_sv_unit
+S1
+R0
+R4
+Z64 8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_multdiv_fast.sv
+Z65 F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_multdiv_fast.sv
+R16
+R8
+R29
+Z66 !s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_multdiv_fast.sv|
+Z67 !s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_multdiv_fast.sv|
+!i113 1
+R12
+R13
+R14
+Xzeroriscy_multdiv_fast_sv_unit
+R1
+R2
+VJm>bnW@4ezI@a?AeDPk_z1
+r1
+!s85 0
+31
+!i10b 1
+!s100 U8z0OMoH`970lU6WN@L9O0
+IJm>bnW@4ezI@a?AeDPk_z1
+!i103 1
+S1
+R0
+R4
+R64
+R65
+Z68 L0 23
+R8
+R29
+R66
+R67
+!i113 1
+R12
+R13
+R14
+vzeroriscy_multdiv_slow
+R1
+R2
+DXx4 work 30 zeroriscy_multdiv_slow_sv_unit 0 22 bB7YlR?SAXMVif9Dho1@=3
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 Cg>cm3zk0Y=o^`BcjYmWZ2
+IPR^=G2eg:5?8IQ0_Q3]N[3
+!s105 zeroriscy_multdiv_slow_sv_unit
+S1
+R0
+R4
+Z69 8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_multdiv_slow.sv
+Z70 F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_multdiv_slow.sv
+R47
+R8
+R29
+Z71 !s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_multdiv_slow.sv|
+Z72 !s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_multdiv_slow.sv|
+!i113 1
+R12
+R13
+R14
+Xzeroriscy_multdiv_slow_sv_unit
+R1
+R2
+VbB7YlR?SAXMVif9Dho1@=3
+r1
+!s85 0
+31
+!i10b 1
+!s100 SBC[B3i:ZU[jK5^U0ChO72
+IbB7YlR?SAXMVif9Dho1@=3
+!i103 1
+S1
+R0
+R4
+R69
+R70
+R68
+R8
+R29
+R71
+R72
+!i113 1
+R12
+R13
+R14
+vzeroriscy_prefetch_buffer
+R1
+R46
+!i10b 1
+!s100 D<fFLCR;Oe1o4FSWP:;=k0
+IkVF@Q8XOFR?ZZA6DD;;L=3
+R3
+!s105 zeroriscy_prefetch_buffer_sv_unit
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_prefetch_buffer.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_prefetch_buffer.sv
+R68
+R8
+r1
+!s85 0
+31
+R29
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_prefetch_buffer.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_prefetch_buffer.sv|
+!i113 1
+R12
+R13
+R14
+vzeroriscy_register_file
+R1
+R46
+!i10b 1
+!s100 5RhV0OAolnO1=<30j`_;W2
+I;Mab29lUa;5`T4>a03B;c0
+R3
+!s105 zeroriscy_register_file_sv_unit
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_register_file.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_register_file.sv
+R7
+R8
+r1
+!s85 0
+31
+R29
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_register_file.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_register_file.sv|
+!i113 1
+R12
+R13
+R14
+vzeroriscy_tracer
+R1
+R2
+Z73 DXx4 work 24 zeroriscy_tracer_defines 0 22 Od>c>e_Sc9mLnMDC64VNV1
+DXx4 work 24 zeroriscy_tracer_sv_unit 0 22 @:nNVHe^n[iU`0jAG3mC60
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 h[eB07D4cS;QoREKQ;<0b0
+Iod=m4bB0Tec?GiUlBL3Md2
+!s105 zeroriscy_tracer_sv_unit
+S1
+R0
+R4
+Z74 8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_tracer.sv
+Z75 F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_tracer.sv
+L0 41
+R8
+R29
+Z76 !s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_config.sv|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_tracer.sv|
+Z77 !s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/zeroriscy_tracer.sv|
+!i113 1
+R12
+R13
+R14
+Xzeroriscy_tracer_defines
+R1
+R2
+R46
+!i10b 1
+!s100 g`dAlzlfQ0lX67RDNhe600
+IOd>c>e_Sc9mLnMDC64VNV1
+VOd>c>e_Sc9mLnMDC64VNV1
+S1
+R0
+R4
+8/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_tracer_defines.sv
+F/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_tracer_defines.sv
+L0 11
+R8
+r1
+!s85 0
+31
+R29
+!s107 /home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_tracer_defines.sv|
+!s90 -quiet|-sv|-suppress|2583|-work|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/modelsim_libs/zero_riscy_lib|+incdir+/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include|/home/sourav/Desktop/HackDAC/buggy_soc/vsim/..//ips/zero-riscy/include/zeroriscy_tracer_defines.sv|
+!i113 1
+R12
+R13
+R14
+Xzeroriscy_tracer_sv_unit
+R1
+R2
+R73
+V@:nNVHe^n[iU`0jAG3mC60
+r1
+!s85 0
+31
+!i10b 1
+!s100 6LUKe1c?f2hPQYUR5z<9R1
+I@:nNVHe^n[iU`0jAG3mC60
+!i103 1
+S1
+R0
+R4
+R74
+R75
+R15
+R7
+R8
+R29
+R76
+R77
+!i113 1
+R12
+R13
+R14
